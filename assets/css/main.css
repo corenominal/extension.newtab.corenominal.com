@@ -1,0 +1,17 @@
+body {
+    position: relative;
+    min-width: 600px;
+    padding: 20px 40px;
+}
+
+nav {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+
+h1 img {
+    height: 1em;
+    width: auto;
+    vertical-align: baseline;
+}
