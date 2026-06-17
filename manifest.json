@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "PN Custom New Tab",
-    "version": "1.0.2",
+    "name": "corenominal Custom New Tab",
+    "version": "1.0.3",
     "description": "Changes the new tab page to a specified URL.",
     "permissions": [
         "tabs",
@@ -26,7 +26,7 @@
     },
     "browser_specific_settings": {
         "gecko": {
-        "id": "customnewtab@philipnewborough.co.uk"
+        "id": "customnewtab@corenominal.com"
         }
     },
     "background": {
