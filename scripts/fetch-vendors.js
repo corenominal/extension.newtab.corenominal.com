@@ -6,20 +6,28 @@ const path = require('path');
 
 const vendors = [
   {
-    url: 'https://assets.philipnewborough.co.uk/assets/css/vendor/bootstrap.css',
-    dest: 'assets/css/vendor/bootstrap.css',
+    url: 'https://corenominal.com/assets/css/vendor/bootstrap-corenominal.css',
+    dest: 'assets/css/vendor/bootstrap-corenominal.css',
   },
   {
-    url: 'https://assets.philipnewborough.co.uk/assets/css/vendor/bootstrap-icons.css',
+    url: 'https://corenominal.com/assets/css/vendor/bootstrap-icons.css',
     dest: 'assets/css/vendor/bootstrap-icons.css',
   },
   {
-    url: 'https://assets.philipnewborough.co.uk/assets/js/vendor/bootstrap.bundle.min.js',
+    url: 'https://corenominal.com/assets/js/vendor/bootstrap.bundle.min.js',
     dest: 'assets/js/vendor/bootstrap.bundle.min.js',
   },
   {
-    url: 'https://assets.philipnewborough.co.uk/assets/css/vendor/fonts/bootstrap-icons.woff2',
+    url: 'https://corenominal.com/assets/css/vendor/fonts/bootstrap-icons.woff2',
     dest: 'assets/css/vendor/fonts/bootstrap-icons.woff2',
+  },
+  {
+    url: 'https://corenominal.com/assets/css/vendor/fonts/inter-latin-wght-normal.woff2',
+    dest: 'assets/css/vendor/fonts/inter-latin-wght-normal.woff2',
+  },
+  {
+    url: 'https://corenominal.com/assets/css/vendor/fonts/inter-latin-wght-italic.woff2',
+    dest: 'assets/css/vendor/fonts/inter-latin-wght-italic.woff2',
   },
 ];
 
